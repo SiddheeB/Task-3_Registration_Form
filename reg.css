@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+html{
+    background-color: #b3ffff;
+
+    background: radial-gradient(rgba(138, 201, 201, 0.5),rgba(237, 230, 172, 0.5),rgba(228, 183, 183, 0.3));
+    text-align: center;
+    
+}
+
+.title{
+    font-size: 2rem;
+    color: black;
+    font-style: bold;
+    margin-top: 15px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+#nameDiv{
+    margin-top: 50px;
+}
+.input{
+    font-size: 25px;
+    color: #131513;
+    font-weight: 700;
+    font-family: cursive;
+    margin: 20px;
+}
+#entry{
+    width: 150px;
+    height: 40px;
+    font-size: 23px;
+    font-family: "Comic Sans MS",cursive,sans-serif;
+    background-color: #181c25;
+    color:whitesmoke;
+    box-shadow:0 2px 2px 0 rgba(80, 74, 74, 0.5);
+    margin-top: 10px;
+}
+table{
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px auto;
+    background-color: rgb(179, 169, 158);
+}
+table, th, td{
+    border:2px solid rgb(232, 220, 220);
+    padding: 5px;
+}
+th{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: sans-serif;
+    color: #260d5b;
+
+}
+td{
+    font-size: 25px;
+    color: rgb(31, 25, 26);
+    font-weight: 400;
+    font-family: sans-serif;
+}
